@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Milos Antonic
-  tagline: Project and Operation Manager
+  tagline: Project and Operations Manager
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -47,10 +47,10 @@ experiences:
   title: Professional Experience
   info:
     - role: Head of Operations
-      time: 2018 - Present
+      time: Sep 2018 - Present
       company: Widewalls Ltd.
       details: |
-        Managing a team of people in charge of daily operational activities, which include:
+        Managing a team of people in charge of daily operation activities including:
           - all customer-related workflows and interactions through a CRM system (initial sales,
           client relationship, support)
           - service delivery process and reporting to the existing clients
@@ -58,7 +58,7 @@ experiences:
           support platform, and inventory management on the different third-party platforms.
 
         Managing IT tasks on the Scrum board related to the platform maintenance and development
-        of the new projects, together with the weekly sprint planning process and communication with
+        of the new projects, together with the weekly sprint planning process and coordination with
         the internal IT team, as well as external IT providers.
 
         Setting up, tracking, and reporting ad campaigns for advertising partners managed through
@@ -68,7 +68,7 @@ experiences:
         delivery process, cold-mailing, and marketing campaigns to the potential leads and users.
 
     - role: QA & Database Specialist
-      time: 2017 - 2018
+      time: Aug 2017 - Aug 2018
       company: Widewalls Ltd.
       details: |
         Testing and evaluating new and existing features to identify and help remove bugs, glitches and other
@@ -77,16 +77,16 @@ experiences:
         support platform.
 
     - role: Sales and Data Manager
-      time: 2015 - 2017
+      time: Jan 2015 - Jul 2017
       company: Widewalls Ltd.
       details: |
-        Lead generation and contact research.
-        Cold mailing and building CRM system.
-        Tracking sales goals and reporting results.
+        Working on lead generation process and contact research.
+        Sending cold mailing campaigns, communication with leads and closing sales.
+        Tracking sales goals and reporting results in CRM system.
         Data management and data analysis.
 
     - role: Research Associate
-      time: 2013 - 2014
+      time: Oct 2013 - Dec 2014
       company: Center for Human Trafficking Victims Protection
 
     - role: Teaching Demonstrator
@@ -113,7 +113,7 @@ projects:
       tagline: "Project: \"Improving the rights of the Social Protection System users by reducing
       the burnout of professional workers\" at Center for Research and Social Development \"IDEAS\"."
 
-    - title: Researcher
+    - title: Researcher (Oct 2012 - Oct 2013)
       tagline: "Researher in the activities of analysis of qualitative data and moderating focus groups on a project:
       \"Developing Community Based Services for Children with Disabilities and their Fammilies\"
       at Center for Research in Social policy and Social work, Faculty of Political Science."
