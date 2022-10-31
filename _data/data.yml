@@ -84,76 +84,36 @@ experiences:
         Cold mailing and building CRM system.
         Tracking sales goals and reporting results.
         Data management and data analysis.
+
+    - role: Research Associate
+      time: 2013 - 2014
+      company: Center for Human Trafficking Victims Protection
+
+    - role: Teaching Demonstrator
+      time: Oct 2012 - Oct 2013
+      company: Faculty of Political Sciences, University of Belgrade
+
 projects:
   title: Projects
-  intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - title: Research Consultant (Jun 2017 - August 2017)
+      tagline: "Data collection of modern slavery victims case reports in Serbia on a project:
+      \"The global Report on Trafficking in Persons 2018 – MSE Studies\" implemented by UNODC,
+      Minderoo Fondation and Walk Free Fondation."
 
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
+    - title: Social Media Associate (Jun 2017 - August 2017)
+      tagline: "Social Media Associate for WooBox's crowd-funding campaign."
 
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: Trainer (May 2016 - September 2016)
+      tagline: "Trainer in educational workshops across Serbia for professionals employed in education,
+      social protection, and internal affairs systems as a part of the project \"The Use of Indicators
+      for Preliminary Identification of Trafficking Victims.\""
 
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: Project Coordinator (Jun 2015 - Nov 2015)
+      tagline: "Project: \"Improving the rights of the Social Protection System users by reducing
+      the burnout of professional workers\" at Center for Research and Social Development \"IDEAS\"."
 
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-    - title: The Art of Computer Programming
-      link: "#"
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
-
-    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      link: "#"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-    - title: A syntax directed compiler for Algol 60
-      link: "#"
-      authors: Edgar T. Irons
-      conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-  title: Skills &amp; Proficiency
-
-  toolset:
-    - name: Python & Django
-      level: 98%
-
-    - name: Javascript & jQuery
-      level: 98%
-
-    - name: Angular
-      level: 98%
-
-    - name: HTML5 & CSS
-      level: 95%
-
-    - name: Ruby on Rails
-      level: 85%
-
-    - name: Sketch & Photoshop
-      level: 60%
-
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    - title: Researcher
+      tagline: "Researher in the activities of analysis of qualitative data and moderating focus groups on a project:
+      \"Developing Community Based Services for Children with Disabilities and their Fammilies\"
+      at Center for Research in Social policy and Social work, Faculty of Political Science."
