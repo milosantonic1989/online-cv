@@ -25,7 +25,7 @@ sidebar:
         level: Native
 
 career-profile:
-  title: Career Profile
+  title: Summary
   summary: |
     Project and Operations Manager with more than seven years of experience working in various
     fields of the internet industry. Detail-oriented with strong communication and analytical skills,
@@ -44,45 +44,46 @@ education:
       time: 2008 - 2012
 
 experiences:
-  title: Experiences
+  title: Professional Experience
   info:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Head of Operations
+      time: 2018 - Present
+      company: Widewalls Ltd.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Managing a team of people in charge of daily operational activities, which include:
+          - all customer-related workflows and interactions through a CRM system (initial sales,
+          client relationship, support)
+          - service delivery process and reporting to the existing clients
+          - activities related to database maintenance managed through the admin back-office and additional
+          support platform, and inventory management on the different third-party platforms.
+
+        Managing IT tasks on the Scrum board related to the platform maintenance and development
+        of the new projects, together with the weekly sprint planning process and communication with
+        the internal IT team, as well as external IT providers.
+
+        Setting up, tracking, and reporting ad campaigns for advertising partners managed through
+        Google Ad Manager and admin back-office.
+
+        Daily coordination with Marketing and Editorial teams regarding activities related to the service
+        delivery process, cold-mailing, and marketing campaigns to the potential leads and users.
+
+    - role: QA & Database Specialist
+      time: 2017 - 2018
+      company: Widewalls Ltd.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Testing and evaluating new and existing features to identify and help remove bugs, glitches and other
+        user experience issues.
+        Activities related to database maintenance managed through the admin back-office and additional
+        support platform.
+
+    - role: Sales and Data Manager
+      time: 2015 - 2017
+      company: Widewalls Ltd.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Lead generation and contact research.
+        Cold mailing and building CRM system.
+        Tracking sales goals and reporting results.
+        Data management and data analysis.
 projects:
   title: Projects
   intro: >
