@@ -43,10 +43,6 @@ education:
       university: University of Belgrade
       time: 2008 - 2012
 
-    - degree: Programming school
-      university: Institute of Nuclear Sciences Vinca, Computer School Vinca. Course of 117 classes covering HTML5, CSS3, JavaScript, Database & SQL, Java. Sept 2016 - Dec 2017
-
-
 experiences:
   title: Professional Experience
   info:
@@ -121,3 +117,10 @@ projects:
       tagline: "Researher in the activities of analysis of qualitative data and moderating focus groups on a project:
       \"Developing Community Based Services for Children with Disabilities and their Fammilies\"
       at Center for Research in Social policy and Social work, Faculty of Political Science."
+
+publications:
+    title: Additional Courses and Certifications
+    papers:
+      - title: Programming school
+        authors: Institute of Nuclear Sciences Vinca, Computer School Vinca
+        conference: Course of 117 classes covering HTML5, CSS3, JavaScript, Database & SQL, Java. Sept 2016 - Dec 2017
